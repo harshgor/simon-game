@@ -52,21 +52,3 @@ body {
   background-color: grey;
 }
 
-@media (max-width:800px) {
-  #level-title {
-    font-size:1.5rem;
-    width:100%;
-    margin: 50px auto;
-    line-height: 1.5;
-    text-align: center;
-  }
-
-  .btn {
-    display: inline-block;
-    height:250px;
-    width:250px;
-    border:1px solid black;
-    border-radius: 20px;
-    margin:30px auto;
-  }
-}
