@@ -57,6 +57,8 @@ body {
     font-size:1.5rem;
     width:100%;
     margin: 50px auto;
+    line-height: 1.5;
+    text-align: center;
   }
 
   .btn {
@@ -65,6 +67,6 @@ body {
     width:250px;
     border:1px solid black;
     border-radius: 20px;
-    margin:30px;
+    margin:30px auto;
   }
 }
